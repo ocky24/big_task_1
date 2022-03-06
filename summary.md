@@ -55,5 +55,5 @@
 
 
 Hasil screenshotJIRA dan Testrail
-CNN [https://drive.google.com/file/d/1kgglJ_CYtoHyCUz1WIMjG5bO26IQuFya/view?usp=sharing]
-Tokopedia [https://drive.google.com/file/d/11InxLouY94FLEDuprxR-nY4DpavnmTfX/view?usp=sharing]
+* CNN [https://drive.google.com/file/d/1kgglJ_CYtoHyCUz1WIMjG5bO26IQuFya/view?usp=sharing]
+* Tokopedia [https://drive.google.com/file/d/11InxLouY94FLEDuprxR-nY4DpavnmTfX/view?usp=sharing]
