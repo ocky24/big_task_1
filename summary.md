@@ -14,7 +14,7 @@
    * ada panel todo, in progress, finish, testing, need fix, dan done
    * Epic => task => bug
 
-   
+
 ## Portal Berita
 1. Halaman Daftar Akun CNN
    * Nama angka, email valid, nomor valid, password valid
@@ -52,3 +52,8 @@
    * menambahkan alamat baru
    * menambahkan akun bank dengan nomor dan nama akun tidak valid
    * mengubah foto profil
+
+
+Hasil screenshotJIRA dan Testrail
+CNN [https://drive.google.com/file/d/1kgglJ_CYtoHyCUz1WIMjG5bO26IQuFya/view?usp=sharing]
+Tokopedia [https://drive.google.com/file/d/11InxLouY94FLEDuprxR-nY4DpavnmTfX/view?usp=sharing]
